@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../te-twitter"
+		}
+	],
+	"settings": {
+		"vetur.experimental.templateInterpolationService": true
+	}
+}
